@@ -1,0 +1,19 @@
+{
+  "name": "csv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.0.4",
+    "email-validator": "^2.0.4",
+    "google-libphonenumber": "^3.2.27",
+    "libphonenumber-js": "^1.9.50"
+  }
+}
